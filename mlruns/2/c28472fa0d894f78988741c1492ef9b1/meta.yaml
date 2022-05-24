@@ -1,0 +1,15 @@
+artifact_uri: file:///home/julianb/code/JulianBreaud/TaxiFareModel/mlruns/2/c28472fa0d894f78988741c1492ef9b1/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: c28472fa0d894f78988741c1492ef9b1
+run_uuid: c28472fa0d894f78988741c1492ef9b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653400508598
+status: 1
+tags: []
+user_id: unknown

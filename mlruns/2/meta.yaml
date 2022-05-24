@@ -1,0 +1,4 @@
+artifact_location: file:///home/julianb/code/JulianBreaud/TaxiFareModel/mlruns/2
+experiment_id: '2'
+lifecycle_stage: active
+name: TaxiFareModel_model_experiment
